@@ -1,0 +1,10 @@
+{
+    "enabled": false,
+    "shape": "band",
+    "color": "#A855F7",
+    "opacity": 133,
+    "radius": 27,
+    "border_width": 8,
+    "border_color": "#A855F7",
+    "fps": 60
+}
